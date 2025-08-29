@@ -1,5 +1,5 @@
 # 💫 About Me:
-Node.js<br>Next.js React<br>React Next.Js Git<br>React
+Node.js<br>Next.js React<br>React Next.Js Git<br>React<br>wordpress<br>Framer<br>Webflow
 
 
 # 💻 Tech Stack:
