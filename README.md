@@ -14,10 +14,10 @@ Hello, Rizwan here, I have extensive knowledge of front-end technologies, such a
 ---
 
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NEW_USERNAME&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=NEW_USERNAME&theme=dark&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NEW_USERNAME&theme=dark&hide_border=false&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?AlyRizuu=AlyRizuu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=AlyRizuu&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?AlyRizuu=AlyRizuu&theme=dark&hide_border=false&layout=compact)
 
 ---
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=NEW_USERNAME&icon=0&color=0)
+![Visitor Count](https://visitcount.itsvg.in/api?id=AlyRizuu&icon=0&color=0)
