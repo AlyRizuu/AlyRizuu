@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**AlyRizuu/AlyRizuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, Rizwan here, I have extensive knowledge of front-end technologies, such as React.js, React Bootstrap, MUI, HTML, CSS, Bootstrap, JavaScript, Wordpress, Framework and Webflow
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack:
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+... (continue with all your badges)
+
+---
+
+## 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NEW_USERNAME&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=NEW_USERNAME&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NEW_USERNAME&theme=dark&hide_border=false&layout=compact)
+
+---
+
+![Visitor Count](https://visitcount.itsvg.in/api?id=NEW_USERNAME&icon=0&color=0)
